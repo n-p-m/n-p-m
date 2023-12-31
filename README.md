@@ -9,9 +9,7 @@ Skills: Python / SQL / Java / Data Science / Front End Development / etc...
 - 👯 I’m looking to collaborate on teams that uses technology to make lives better 
 - 📫 How to reach me: Email-> nirmalphiliposemathew.1@osu.edu 
 - ⚡ Fun fact: I like memes.  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/n-p-m)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nirmal-p-mathew//)  
 ---
-
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
