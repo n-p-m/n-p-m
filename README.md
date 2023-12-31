@@ -8,7 +8,7 @@ I am excited to utilize my passion for technology and science to bring significa
 - 📫 How to reach me: Email-> nirmalphiliposemathew@gmail.com | nirmalphiliposemathew.1@osu.edu 
 - ⚡ Fun fact: I like memes.
 
-####Please visit my repository to see publically available stuff I have work on-> [Repo](https://github.com/n-p-m/NirmalPhiliposeMathew).  
+Please visit my repository to see publically available stuff I have work on-> [Repo](https://github.com/n-p-m/NirmalPhiliposeMathew).  
 
 ---
 ### 🧰 Languages and Tools
