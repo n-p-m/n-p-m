@@ -1,12 +1,14 @@
-### Hi World,  my name is Nirmal Philipose Mathew
-#### Currently I'm pursuing my MSc in CSE @The Ohio State University
-I am excited to utilize my passion for technology and science in a way that brings significant value and drives innovation within the teams I collaborate with.
+### Hello World,  my name is Nirmal Philipose Mathew.
+#### Currently I'm pursuing my MSc in CSE @The Ohio State University (Graduating in May 2024). 
+I am excited to utilize my passion for technology and science to bring significant value and drive innovation with the teams I work with.
 
 - 🔭 I’m currently working on understanding multiple usecases of Large Language Model's. 
 - 🌱 I’m currently learning to be a quick learner. 
 - 👯 I’m looking to collaborate with teams that uses technology to make lives better.
 - 📫 How to reach me: Email-> nirmalphiliposemathew@gmail.com | nirmalphiliposemathew.1@osu.edu 
-- ⚡ Fun fact: I like memes.  
+- ⚡ Fun fact: I like memes.
+
+Please visit my repository to see publically available stuff I have work on-> .  
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
