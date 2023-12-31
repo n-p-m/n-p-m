@@ -3,8 +3,8 @@
 I am excited to utilize my passion for technology and science to bring significant value and drive innovation with the teams I work with.
 
 - 🔭 I’m currently working on understanding multiple usecases of Large Language Model's. 
-- 🌱 I’m currently learning to be a quick learner. 
-- 👯 I’m looking to collaborate with teams that uses technology to make lives better.
+- 🌱 Kaizen. 
+- 👯 I wish to work with team that uses technology to make lives better.
 - 📫 How to reach me: Email-> nirmalphiliposemathew@gmail.com | nirmalphiliposemathew.1@osu.edu 
 - ⚡ Fun fact: I like memes.
 
