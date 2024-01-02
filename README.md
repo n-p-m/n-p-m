@@ -1,4 +1,4 @@
-### Hello World,  my name is Nirmal Philipose Mathew.
+### Hello World!!!  My name is Nirmal Philipose Mathew.
 #### Currently I'm pursuing my MSc in CSE @The Ohio State University (Graduating in May 2024). 
 I am excited to utilize my passion for technology and science to bring significant value and drive innovation with the teams I work with.
 
