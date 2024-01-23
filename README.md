@@ -2,7 +2,7 @@
 #### Currently I'm pursuing my MSc in CSE @The Ohio State University (Graduating in May 2024). 
 I am excited to utilize my passion for technology and science to bring significant value and drive innovation with the teams I work with.
 
-- 🔭 I’m currently researching the use of Large Language Model's for businesses and exploring the use of machine learning in non-invasive radiation research. 
+- 🔭 I’m currently researching the use of Large Language Model's for businesses and exploring the use of machine learning in radiation research. 
 - 👯 I wish to work with team that uses technology to make lives better.
 - 📫 How to reach me: Email-> nirmalphiliposemathew@gmail.com | nirmalphiliposemathew.1@osu.edu 
 - ⚡ Fun fact: I like memes.
