@@ -8,7 +8,6 @@ I am excited to utilize my passion for technology and science to bring significa
 - ⚡ Fun fact: I like memes.
 - 🌱 Kaizen(continuous improvement). 
 
-Please visit my repository to see publically available stuff I have work on-> [Repo](https://github.com/n-p-m/NirmalPhiliposeMathew).  
 
 ---
 ### 🧰 Languages and Tools
